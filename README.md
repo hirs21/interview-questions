@@ -5,14 +5,14 @@ Try to answer one question per day and make a PR with your answer.
 ## Guidelines for this repo
 
 1. Fork this repo to your personal Github account.
-1. Choose a question to answer.
-1. Make an answer file for the question you answered in the corresponding folder/naming convention: *** generalQuestions/question1-kevin.md ***
+2. Choose a question to answer.
+3. Make an answer file for the question you answered in the corresponding folder/naming convention: *** generalQuestions/question1-kevin.md ***
   * In this example, Kevin has answered question1 from the General Questions list
-1. Answer the question in your newly created file.
-1. Edit the README (this file) to link to that answer under the corresponding question.
-1. Push your changes to your fork.
-1. Make a Pull Request from your fork to this repo.
-1. That's it! Let's crush those interviews!
+4. Answer the question in your newly created file.
+5. Edit the README (this file) to link to that answer under the corresponding question.
+6. Push your changes to your fork.
+7. Make a Pull Request from your fork to this repo.
+8. That's it! Let's crush those interviews!
 
 # Front-end Job Interview Questions
 
