@@ -68,7 +68,9 @@ This file contains a number of front-end interview questions that can be used wh
 #### HTML Questions:
 
 1. What does a `doctype` do?
+  * [Cory](htmlQuestions/question1-cory.md)
 1. What's the difference between full standards mode, almost standards mode and quirks mode?
+  * [Cory](htmlQuestions/question2-cory.md)
 1. What's the difference between HTML and XHTML?
 1. Are there any problems with serving pages as `application/xhtml+xml`?
 1. How do you serve a page with content in multiple languages?
