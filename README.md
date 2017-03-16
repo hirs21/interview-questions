@@ -72,6 +72,7 @@ This file contains a number of front-end interview questions that can be used wh
 2. What's the difference between full standards mode, almost standards mode and quirks mode?
   * [Cory](htmlQuestions/question2-cory.md)
 3. What's the difference between HTML and XHTML?
+  * [Cory](htmlQuestions/question3-cory.md)
 4. Are there any problems with serving pages as `application/xhtml+xml`?
 5. How do you serve a page with content in multiple languages?
 6. What kind of things must you be wary of when design or developing for multilingual sites?
