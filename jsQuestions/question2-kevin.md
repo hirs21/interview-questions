@@ -1,6 +1,6 @@
 * Explain how `this` works in JavaScript
 
-The `this` variable is set up by the JavaScript engine in the creation of the execution context. It allows shortcut access to an object depending on how the function is invoked. In the browser, `this` in the global scope is the `window` object and in Node.js, the global `this` is `process`.
+The `this` variable is set up by the JavaScript engine in the creation of the execution context. It allows shortcut access to an object depending on how the function is invoked. In the browser, `this` in the global scope is the `window` object.
 
 As mentioned before, the `this` binding depends on how the function was called. For functions that are methods on an object, called in an example such as `myObj.myFunc()`, the JavaScript engine will set up the `this` variable to be `myObj`.
 
