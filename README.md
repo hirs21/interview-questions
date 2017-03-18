@@ -74,7 +74,9 @@ This file contains a number of front-end interview questions that can be used wh
 3. What's the difference between HTML and XHTML?
   * [Cory](htmlQuestions/question3-cory.md)
 4. Are there any problems with serving pages as `application/xhtml+xml`?
+  * [Cory](htmlQuestions/question4-cory.md)
 5. How do you serve a page with content in multiple languages?
+  * [Cory](htmlQuestions/question5-cory.md)
 6. What kind of things must you be wary of when design or developing for multilingual sites?
 7. What are `data-` attributes good for?
 8. Consider HTML5 as an open web platform. What are the building blocks of HTML5?
