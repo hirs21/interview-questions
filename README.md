@@ -128,7 +128,7 @@ This file contains a number of front-end interview questions that can be used wh
 #### JS Questions:
 
 1. Explain event delegation
-  * [Bobby](jsQuestions/question1-kevin.md)
+  * [Bobby](jsQuestions/question1-bobby.md)
 2. Explain how `this` works in JavaScript
   * [Kevin](jsQuestions/question2-kevin.md)
 3. Explain how prototypal inheritance works
