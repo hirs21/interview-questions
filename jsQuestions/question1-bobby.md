@@ -1,4 +1,4 @@
-*Explain event delegation
+* Explain event delegation
 
 Event delegation allows you to add event listeners to the parent element rather than specific nodes. For example,
 if we didn't have event delegation and we wanted to add an event listener to li elements in an ul, we would have
