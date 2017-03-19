@@ -8,3 +8,7 @@ on the parent element, the <ul>, and listen for click events in <li> elements in
 can select nested classes and ids in CSS (I believe it's called combinators?). This way you only have to create
 one event listener.
 
+jQuery ex:
+  $thisElement.on('click', 'li', function() {
+    console.log('click on li elements within thisElement');
+  });
