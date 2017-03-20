@@ -4,7 +4,7 @@ Prototypical inheritance is used when you want two objects to have all the same 
 
 To achieve this, you can make one object behave as if it has all the same properties of the other object, by delegating it's failed property lookup to the other object at lookup time.
 
-##Example: 
+## Example: 
 var gold = {a:1, b: 2}; 
 //gold.a === 1
 //gold.b === 2
