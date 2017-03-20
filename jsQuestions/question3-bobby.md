@@ -11,6 +11,7 @@ var gold = {a:1, b: 2};
 
 var blue = extend({}, gold);
 blue.b = 3;
+
 //blue.b === 3
 //blue.a === 1
 //blue.c === undefined
