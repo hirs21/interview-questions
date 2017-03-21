@@ -92,6 +92,7 @@ This file contains a number of front-end interview questions that can be used wh
 #### CSS Questions:
 
 1. What is the difference between classes and IDs in CSS?
+  * [Cory](cssQuestions/question1-cory.md)
 2. What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 3. Describe Floats and how they work.
 4. Describe z-index and how stacking context is formed.
@@ -135,6 +136,7 @@ This file contains a number of front-end interview questions that can be used wh
 4. What do you think of AMD vs CommonJS?
 5. Explain why the following doesn't work as an IIFE: `function foo(){ }();`.
   * What needs to be changed to properly make it an IIFE?
+  * [Cory](jsQuestions/question5-cory.md)
 6. What's the difference between a variable that is: `null`, `undefined` or undeclared?
   * How would you go about checking for any of these states?
 7. What is a closure, and how/why would you use one?
