@@ -96,6 +96,7 @@ This file contains a number of front-end interview questions that can be used wh
 2. What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
   * [Cory](cssQuestions/question2-cory.md)
 3. Describe Floats and how they work.
+  * [Cory](cssQuestions/question3-cory.md)
 4. Describe z-index and how stacking context is formed.
 5. Describe BFC(Block Formatting Context) and how it works.
 6. What are the various clearing techniques and which is appropriate for what context?
