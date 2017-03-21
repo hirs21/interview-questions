@@ -94,6 +94,7 @@ This file contains a number of front-end interview questions that can be used wh
 1. What is the difference between classes and IDs in CSS?
   * [Cory](cssQuestions/question1-cory.md)
 2. What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
+  * [Cory](cssQuestions/question2-cory.md)
 3. Describe Floats and how they work.
 4. Describe z-index and how stacking context is formed.
 5. Describe BFC(Block Formatting Context) and how it works.
