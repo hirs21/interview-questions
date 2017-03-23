@@ -9,7 +9,7 @@ var gold = {a:1, b: 2};<br/>
 //gold.a === 1<br/>
 //gold.b === 2<br/>
 
-var blue = extend({}, gold);<br/>
+var blue = Object.create(gold);<br/>
 blue.b = 3;<br/>
 //blue.b === 3<br/>
 //blue.a === 1<br/>
