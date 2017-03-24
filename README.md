@@ -135,12 +135,14 @@ This file contains a number of front-end interview questions that can be used wh
 2. Explain how `this` works in JavaScript
   * [Kevin](jsQuestions/question2-kevin.md)
 3. Explain how prototypal inheritance works
+  * [Bobby](jsQuestions/question3-bobby.md)
 4. What do you think of AMD vs CommonJS?
 5. Explain why the following doesn't work as an IIFE: `function foo(){ }();`.
   * What needs to be changed to properly make it an IIFE?
   * [Cory](jsQuestions/question5-cory.md)
 6. What's the difference between a variable that is: `null`, `undefined` or undeclared?
   * How would you go about checking for any of these states?
+  * . [Bobby](jsQuestions/question6-bobby.md)
 7. What is a closure, and how/why would you use one?
 8. What's a typical use case for anonymous functions?
 9. How do you organize your code? (module pattern, classical inheritance?)
