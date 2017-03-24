@@ -4,7 +4,7 @@
 Null is a variable that is defined to have a null value<br/>
 
 var nullVariable = null; // null<br/>
-typeof nullVariabl; // "object"<br/>
+typeof nullVariable; // "object"<br/>
 
 ##### Undefined
 A variable that does not have a value assigned to it or not defined.</br>
