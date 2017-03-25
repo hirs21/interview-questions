@@ -17,7 +17,7 @@ typeof undefinedVariable; // "undefined"<br/>
 A variable is undeclared when you don't declare it with keywords such as var, let, or const. This will cause it to be created on the global object or window.<br/>
 
 undeclaredVariable = 1; // 1<br/>
-typeof undeclaredVariable; // undefined</br>
+typeof undeclaredVariable; // number</br>
 
 ##### Preventing use of undeclared variables
 One way to prevent use of undeclared variables is to use strict mode<br/>
