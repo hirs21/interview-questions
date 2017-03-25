@@ -9,7 +9,7 @@ You create a closure by adding a function inside another function.
 ##### Example:
 
 const showName = (firstName, lastName) => {<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;	var nameIntro = 'My name is';<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;	const nameIntro = 'My name is';<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;	const makeFullName = () => `` `${nameIntro} ${firstName} ${lastName}` ``;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;	return makeFullName();<br/>
 }<br/>
