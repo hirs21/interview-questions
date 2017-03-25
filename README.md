@@ -98,7 +98,9 @@ This file contains a number of front-end interview questions that can be used wh
 3. Describe Floats and how they work.
   * [Cory](cssQuestions/question3-cory.md)
 4. Describe z-index and how stacking context is formed.
+  * [Cory](cssQuestions/question4-cory.md)
 5. Describe BFC(Block Formatting Context) and how it works.
+  * [Cory](cssQuestions/question5-cory.md)
 6. What are the various clearing techniques and which is appropriate for what context?
 7. Explain CSS sprites, and how you would implement them on a page or site.
 8. What are your favourite image replacement techniques and which do you use when?
