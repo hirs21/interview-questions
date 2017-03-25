@@ -29,5 +29,5 @@ One way to prevent use of undeclared variables is to use strict mode<br/>
 * In normal JavaScript, a developer will not receive any error feedback assigning values to non-writable properties.
 * In strict mode, any assignment to a non-writable property, a getter-only property, a non-existing property, a non-existing variable, or a non-existing object, will throw an error.
 
-'use strict'
+'use strict';<br>
 undeclaredVariable = 1; // Throws error (ReferenceError: undeclared is not defined)
