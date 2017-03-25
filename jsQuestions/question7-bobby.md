@@ -8,9 +8,10 @@ You create a closure by adding a function inside another function.
 
 ##### Example:
 
-const showName = (firstName, lastName) => {
-	var nameIntro = 'Your name is';
-	const makeFullName = () => (
-		`${nameIntro} ${firstName} ${lastName}`;
-	);
-}
+const showName = (firstName, lastName) => {<br/>
+	var nameIntro = 'My name is';<br/>
+	const makeFullName = () => `${nameIntro} ${firstName} ${lastName}`;<br/>
+	return makeFullName();<br/>
+}<br/>
+
+showName('Bobby', 'Phan'); //My name is Bobby Phan
