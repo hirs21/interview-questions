@@ -142,7 +142,7 @@ This file contains a number of front-end interview questions that can be used wh
   * [Cory](jsQuestions/question5-cory.md)
 6. What's the difference between a variable that is: `null`, `undefined` or undeclared?
   * How would you go about checking for any of these states?
-  * . [Bobby](jsQuestions/question6-bobby.md)
+  * [Bobby](jsQuestions/question6-bobby.md)
 7. What is a closure, and how/why would you use one?
 8. What's a typical use case for anonymous functions?
 9. How do you organize your code? (module pattern, classical inheritance?)
