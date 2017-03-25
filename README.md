@@ -144,6 +144,7 @@ This file contains a number of front-end interview questions that can be used wh
   * How would you go about checking for any of these states?
   * [Bobby](jsQuestions/question6-bobby.md)
 7. What is a closure, and how/why would you use one?
+  * [Bobby](jsQuestions/question7-bobby.md)
 8. What's a typical use case for anonymous functions?
 9. How do you organize your code? (module pattern, classical inheritance?)
 10. What's the difference between host objects and native objects?
