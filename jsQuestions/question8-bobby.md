@@ -5,13 +5,13 @@ Anonymous functions are used for the reasons of: a) Code brevity. It often makes
 
 ##### Examples:
 
-var anonFunction1 = function() {
-&nbsp;&nbsp;&nbsp;  return 'this is an anonymous function assigned to a variable';
+var anonFunction1 = function() {<br/>
+&nbsp;&nbsp;&nbsp;  return 'this is an anonymous function assigned to a variable';<br/>
 }
 
 
-var object = {
-&nbsp;&nbsp;&nbsp;   anonFunction2: function(){
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        return 'this is an anonymous function inside an object';
-&nbsp;&nbsp;&nbsp;    }
+var object = {<br/>
+&nbsp;&nbsp;&nbsp;   anonFunction2: function(){<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        return 'this is an anonymous function inside an object';<br/>
+&nbsp;&nbsp;&nbsp;   }<br/>
 };
