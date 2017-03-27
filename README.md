@@ -102,6 +102,7 @@ This file contains a number of front-end interview questions that can be used wh
 5. Describe BFC(Block Formatting Context) and how it works.
   * [Cory](cssQuestions/question5-cory.md)
 6. What are the various clearing techniques and which is appropriate for what context?
+  * [Cory](cssQuestions/question6-cory.md)
 7. Explain CSS sprites, and how you would implement them on a page or site.
 8. What are your favourite image replacement techniques and which do you use when?
 9. How would you approach fixing browser-specific styling issues?
