@@ -104,6 +104,7 @@ This file contains a number of front-end interview questions that can be used wh
 6. What are the various clearing techniques and which is appropriate for what context?
   * [Cory](cssQuestions/question6-cory.md)
 7. Explain CSS sprites, and how you would implement them on a page or site.
+  * [Cory](cssQuestions/question7-cory.md)
 8. What are your favourite image replacement techniques and which do you use when?
 9. How would you approach fixing browser-specific styling issues?
 10. How do you serve your pages for feature-constrained browsers?
