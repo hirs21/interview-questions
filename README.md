@@ -152,6 +152,7 @@ This file contains a number of front-end interview questions that can be used wh
   * [Bobby](jsQuestions/question8-bobby.md)
 9. How do you organize your code? (module pattern, classical inheritance?)
 10. What's the difference between host objects and native objects?
+  * [Bobby](jsQuestions/question10-bobby.md)
 11. Difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
 12. What's the difference between `.call` and `.apply`?
 13. Explain `Function.prototype.bind`.
