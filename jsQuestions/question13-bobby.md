@@ -5,6 +5,8 @@ Bind creates a new function that will have this set to the first parameter passe
 Here's an example that shows how to use bind to pass a member method around that has the correct this:
 
 
+#### Example
+```
 var Button = function(content) {<br/>
 &nbsp;&nbsp;&nbsp;&nbsp; this.content = content;<br/>
 };<br/>
@@ -21,3 +23,4 @@ looseClick(); // not bound, 'this' is not myButton - it is the global object<br/
 
 var boundClick = myButton.click.bind(myButton);<br/>
 boundClick(); // bound, 'this' is myButton<br/>
+```
