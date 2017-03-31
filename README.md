@@ -81,6 +81,7 @@ This file contains a number of front-end interview questions that can be used wh
 5. How do you serve a page with content in multiple languages?
   * [Cory](htmlQuestions/question5-cory.md)
 6. What kind of things must you be wary of when design or developing for multilingual sites?
+  * [Cory](htmlQuestions/question6-cory.md)
 7. What are `data-` attributes good for?
 8. Consider HTML5 as an open web platform. What are the building blocks of HTML5?
 9. Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
