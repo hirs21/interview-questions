@@ -161,6 +161,7 @@ This file contains a number of front-end interview questions that can be used wh
 12. What's the difference between `.call` and `.apply`?
   * [Bobby](jsQuestions/question12-bobby.md)
 13. Explain `Function.prototype.bind`.
+  * [Bobby](jsQuestions/question13-bobby.md)
 14. When would you use `document.write()`?
 15. What's the difference between feature detection, feature inference, and using the UA string?
 16. Explain Ajax in as much detail as possible.
