@@ -7,20 +7,20 @@ Here's an example that shows how to use bind to pass a member method around that
 
 #### Example
 ```
-var Button = function(content) {<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; this.content = content;<br/>
-};<br/>
+var Button = function(content) {
+	this.content = content;
+};
 
-Button.prototype.click = function() {<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; console.log(this.content + ' clicked');<br/>
-}<br/>
+Button.prototype.click = function() {
+	console.log(this.content + ' clicked');
+}
 
-var myButton = new Button('OK');<br/>
-myButton.click();<br/>
+var myButton = new Button('OK');
+myButton.click(); // prints out 'OK clicked'
 
-var looseClick = myButton.click;<br/>
-looseClick(); // not bound, 'this' is not myButton - it is the global object<br/>
+var looseClick = myButton.click;
+looseClick(); // prints out 'undefined clicked'
 
-var boundClick = myButton.click.bind(myButton);<br/>
-boundClick(); // bound, 'this' is myButton<br/>
+var boundClick = myButton.click.bind(myButton);
+boundClick(); // prints out 'OK clicked'
 ```
