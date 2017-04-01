@@ -1,6 +1,6 @@
 * What is `"use strict";`? what are the advantages and disadvantages to using it?
 
-Putting `use strict;` at the top of your code or function causes your JavaScript to be evaluated in `strict mode`. Strict mode throws more errors and disables some features in order to make your code more robust, readable, and accurate.
+Putting `"use strict";` at the top of your code or function causes your JavaScript to be evaluated in `strict mode`. Strict mode throws more errors and disables some features in order to make your code more robust, readable, and accurate.
 
 #### Advantages:
 * Strict mode makes it easier to write "secure" JavaScript.
