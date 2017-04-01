@@ -8,11 +8,11 @@ Here's an example that shows how to use bind to pass a member method around that
 #### Example
 ```
 var Button = function(content) {
-	this.content = content;
+   this.content = content;
 };
 
 Button.prototype.click = function() {
-	console.log(this.content + ' clicked');
+   console.log(this.content + ' clicked');
 }
 
 var myButton = new Button('OK');
