@@ -165,6 +165,7 @@ This file contains a number of front-end interview questions that can be used wh
 14. When would you use `document.write()`?
 15. What's the difference between feature detection, feature inference, and using the UA string?
 16. Explain Ajax in as much detail as possible.
+  * [Bobby](jsQuestions/question16-bobby.md)
 17. What are the advantages and disadvantages of using Ajax?
 18. Explain how JSONP works (and how it's not really Ajax).
 19. Have you ever used JavaScript templating?
