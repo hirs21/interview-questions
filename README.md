@@ -162,9 +162,11 @@ This file contains a number of front-end interview questions that can be used wh
 12. What's the difference between `.call` and `.apply`?
   * [Bobby](jsQuestions/question12-bobby.md)
 13. Explain `Function.prototype.bind`.
+  * [Bobby](jsQuestions/question13-bobby.md)
 14. When would you use `document.write()`?
 15. What's the difference between feature detection, feature inference, and using the UA string?
 16. Explain Ajax in as much detail as possible.
+  * [Bobby](jsQuestions/question16-bobby.md)
 17. What are the advantages and disadvantages of using Ajax?
 18. Explain how JSONP works (and how it's not really Ajax).
 19. Have you ever used JavaScript templating?
@@ -183,6 +185,7 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
   * [Cory](jsQuestions/question27-cory.md)
 28. Why is it called a Ternary expression, what does the word "Ternary" indicate?
 29. What is `"use strict";`? what are the advantages and disadvantages to using it?
+  * [Bobby](jsQuestions/question29-bobby.md)
 30. Create a for loop that iterates up to `100` while outputting **"fizz"** at multiples of `3`, **"buzz"** at multiples of `5` and **"fizzbuzz"** at multiples of `3` and `5`
   * [Kevin](jsQuestions/question30-kevin.md)
 31. Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
