@@ -109,6 +109,7 @@ This file contains a number of front-end interview questions that can be used wh
 8. What are your favourite image replacement techniques and which do you use when?
   * [Cory](cssQuestions/question8-cory.md)
 9. How would you approach fixing browser-specific styling issues?
+  * [Cory](cssQuestions/question9-cory.md)
 10. How do you serve your pages for feature-constrained browsers?
   * What techniques/processes do you use?
 11. What are the different ways to visually hide content (and make it available only for screen readers)?
