@@ -51,6 +51,7 @@ This file contains a number of front-end interview questions that can be used wh
 6. Which version control systems are you familiar with?
 7. Can you describe your workflow when you create a web page?
 8. If you have 5 different stylesheets, how would you best integrate them into the site?
+  * [Kevin](generalQuestions/question8-kevin.md)
 9. Can you describe the difference between progressive enhancement and graceful degradation?
 10. How would you optimize a website's assets/resources?
 11. How many resources will a browser download from a given domain at a time?
