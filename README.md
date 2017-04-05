@@ -2,6 +2,8 @@
 
 Try to answer one question per day and make a PR with your answer.
 
+HiR 21 contributors: For continued learning and software engineering mastery during our 3-month residency. [@kjng](https://github.com/kjng) [@wolnewitz](https://github.com/wolnewitz) [@bwuphan](https://github.com/bwuphan) [@renatavmaraj](https://github.com/renatavmaraj/) [@gwynndp](https://github.com/gwynndp)
+
 ## Guidelines for this repo
 
 1. Fork this repo to your personal Github account.
@@ -51,6 +53,7 @@ This file contains a number of front-end interview questions that can be used wh
 6. Which version control systems are you familiar with?
 7. Can you describe your workflow when you create a web page?
 8. If you have 5 different stylesheets, how would you best integrate them into the site?
+  * [Kevin](generalQuestions/question8-kevin.md)
 9. Can you describe the difference between progressive enhancement and graceful degradation?
 10. How would you optimize a website's assets/resources?
 11. How many resources will a browser download from a given domain at a time?
@@ -299,8 +302,6 @@ console.log('three');
 
 
 #### Contributors:
-
-HiR 21: For continued learning and software engineering mastery during our 3-month residency. [@kjng](https://github.com/kjng) [@wolnewitz](https://github.com/wolnewitz)
 
 This document started in 2009 as a collaboration of [@paul_irish](https://twitter.com/paul_irish) [@bentruyman](https://twitter.com/bentruyman) [@cowboy](https://twitter.com/cowboy) [@ajpiano](https://twitter.com/ajpiano)  [@SlexAxton](https://twitter.com/slexaxton) [@boazsender](https://twitter.com/boazsender) [@miketaylr](https://twitter.com/miketaylr) [@vladikoff](https://twitter.com/vladikoff) [@gf3](https://twitter.com/gf3) [@jon_neal](https://twitter.com/jon_neal) [@sambreed](https://twitter.com/sambreed) and [@iansym](https://twitter.com/iansym).
 
