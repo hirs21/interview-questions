@@ -87,11 +87,15 @@ This file contains a number of front-end interview questions that can be used wh
   * [Cory](htmlQuestions/question6-cory.md)
 7. What are `data-` attributes good for?
 8. Consider HTML5 as an open web platform. What are the building blocks of HTML5?
-9. Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
+9. Describe the difference between a `cookie`, `sessionStorage` and `localStorage`. * [Renata](htmlQuestions/question9-renata.md)
 10. Describe the difference between `<script>`, `<script async>` and `<script defer>`.
+* [Renata](htmlQuestions/question10-renata.md)
 11. Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
+* [Renata](htmlQuestions/question11-renata.md)
 12. What is progressive rendering?
+* [Renata](htmlQuestions/question12-renata.md)
 13. Have you used different HTML templating languages before?
+* [Renata](htmlQuestions/question13-renata.md)
 
 #### CSS Questions:
 
@@ -175,7 +179,9 @@ This file contains a number of front-end interview questions that can be used wh
 19. Have you ever used JavaScript templating?
   * If so, what libraries have you used?
 20. Explain "hoisting".
+* [Renata](jsQuestions/question20-renata.md)
 21. Describe event bubbling.
+* [Renata](jsQuestions/question21-renata.md)
 22. What's the difference between an "attribute" and a "property"?
 23. Why is extending built-in JavaScript objects not a good idea?
 24. Difference between document load event and document DOMContentLoaded event?
