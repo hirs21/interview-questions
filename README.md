@@ -51,6 +51,7 @@ This file contains a number of front-end interview questions that can be used wh
 4. What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
 5. Talk about your preferred development environment.
 6. Which version control systems are you familiar with?
+  * [Cory](generalQuestions/question6-cory.md)
 7. Can you describe your workflow when you create a web page?
 8. If you have 5 different stylesheets, how would you best integrate them into the site?
   * [Kevin](generalQuestions/question8-kevin.md)
@@ -121,6 +122,7 @@ This file contains a number of front-end interview questions that can be used wh
   * What techniques/processes do you use?
 11. What are the different ways to visually hide content (and make it available only for screen readers)?
 12. Have you ever used a grid system, and if so, what do you prefer?
+  * [Cory](cssQuestions/question12-cory.md)
 13. Have you used or implemented media queries or mobile specific layouts/CSS?
 14. Are you familiar with styling SVG?
 15. How do you optimize your webpages for print?
