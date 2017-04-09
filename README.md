@@ -188,6 +188,7 @@ This file contains a number of front-end interview questions that can be used wh
 23. Why is extending built-in JavaScript objects not a good idea?
 24. Difference between document load event and document DOMContentLoaded event?
 25. What is the difference between `==` and `===`?
+  * [Bobby](jsQuestions/question25-bobby.md)
 26. Explain the same-origin policy with regards to JavaScript.
 27. Make this work:
 ```javascript
