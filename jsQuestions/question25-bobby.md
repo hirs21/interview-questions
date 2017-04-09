@@ -1,6 +1,6 @@
 * What is the difference between `==` and `===`?
 
-The `equality operator` '==' and the `identity operator` '===' behave identically except that '===' does not do type conversion meaning the types of both arguments must be equal or else the comparison will return false.
+The `equality operator` '==' and the `identity operator` '===' behave identically except that '===' does not do type conversion meaning the types of both arguments must be equal or else the comparison will return false regardless of values.
 
 the `==` operator conversely will compare for equality *after doing any necessary type conversions*.
 
