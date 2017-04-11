@@ -87,6 +87,7 @@ This file contains a number of front-end interview questions that can be used wh
 6. What kind of things must you be wary of when design or developing for multilingual sites?
   * [Cory](htmlQuestions/question6-cory.md)
 7. What are `data-` attributes good for?
+* [Cory](htmlQuestions/question7-cory.md)
 8. Consider HTML5 as an open web platform. What are the building blocks of HTML5?
 9. Describe the difference between a `cookie`, `sessionStorage` and `localStorage`. * [Renata](htmlQuestions/question9-renata.md)
 10. Describe the difference between `<script>`, `<script async>` and `<script defer>`.
