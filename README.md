@@ -133,6 +133,7 @@ This file contains a number of front-end interview questions that can be used wh
 18. How would you implement a web design comp that uses non-standard fonts?
 19. Explain how a browser determines what elements match a CSS selector.
 20. Describe pseudo-elements and discuss what they are used for.
+  * [Cory](cssQuestions/question20-cory.md)
 21. Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
 22. What does ```* { box-sizing: border-box; }``` do? What are its advantages?
 23. List as many values for the display property that you can remember.
