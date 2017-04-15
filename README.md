@@ -221,6 +221,7 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 #### Testing Questions:
 
 1. What are some advantages/disadvantages to testing your code?
+  * [Cory](testingQuestions/question1-cory.md)
 1. What tools would you use to test your code's functionality?
 1. What is the difference between a unit test and a functional/integration test?
 1. What is the purpose of a code style linting tool?
