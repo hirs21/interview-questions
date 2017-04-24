@@ -87,17 +87,19 @@ This file contains a number of front-end interview questions that can be used wh
 6. What kind of things must you be wary of when design or developing for multilingual sites?
   * [Cory](htmlQuestions/question6-cory.md)
 7. What are `data-` attributes good for?
-* [Cory](htmlQuestions/question7-cory.md)
+  * [Cory](htmlQuestions/question7-cory.md)
 8. Consider HTML5 as an open web platform. What are the building blocks of HTML5?
-9. Describe the difference between a `cookie`, `sessionStorage` and `localStorage`. * [Renata](htmlQuestions/question9-renata.md)
+9. Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
+  * [Renata](htmlQuestions/question9-renata.md)
 10. Describe the difference between `<script>`, `<script async>` and `<script defer>`.
-* [Renata](htmlQuestions/question10-renata.md)
+  * [Renata](htmlQuestions/question10-renata.md)
+  * [Cory](htmlQuestions/question10-cory.md)
 11. Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
-* [Renata](htmlQuestions/question11-renata.md)
+  * [Renata](htmlQuestions/question11-renata.md)
 12. What is progressive rendering?
-* [Renata](htmlQuestions/question12-renata.md)
+  * [Renata](htmlQuestions/question12-renata.md)
 13. Have you used different HTML templating languages before?
-* [Renata](htmlQuestions/question13-renata.md)
+  * [Renata](htmlQuestions/question13-renata.md)
 
 #### CSS Questions:
 
@@ -222,6 +224,7 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 #### Testing Questions:
 
 1. What are some advantages/disadvantages to testing your code?
+  * [Cory](testingQuestions/question1-cory.md)
 1. What tools would you use to test your code's functionality?
 1. What is the difference between a unit test and a functional/integration test?
 1. What is the purpose of a code style linting tool?
