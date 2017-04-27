@@ -96,6 +96,7 @@ This file contains a number of front-end interview questions that can be used wh
   * [Cory](htmlQuestions/question10-cory.md)
 11. Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
   * [Renata](htmlQuestions/question11-renata.md)
+  * [Cory](htmlQuestions/question11-cory.md)
 12. What is progressive rendering?
   * [Renata](htmlQuestions/question12-renata.md)
 13. Have you used different HTML templating languages before?
