@@ -101,6 +101,7 @@ This file contains a number of front-end interview questions that can be used wh
   * [Renata](htmlQuestions/question12-renata.md)
 13. Have you used different HTML templating languages before?
   * [Renata](htmlQuestions/question13-renata.md)
+  * [Cory](htmlQuestions/question13-cory.md)
 
 #### CSS Questions:
 
