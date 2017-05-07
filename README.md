@@ -130,6 +130,7 @@ This file contains a number of front-end interview questions that can be used wh
 12. Have you ever used a grid system, and if so, what do you prefer?
   * [Cory](cssQuestions/question12-cory.md)
 13. Have you used or implemented media queries or mobile specific layouts/CSS?
+  * [Cory](cssQuestions/question13-cory.md)
 14. Are you familiar with styling SVG?
 15. How do you optimize your webpages for print?
 16. What are some of the "gotchas" for writing efficient CSS?
