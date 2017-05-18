@@ -46,6 +46,7 @@ This file contains a number of front-end interview questions that can be used wh
 
 1. What did you learn yesterday/this week?
   * [Kevin](generalQuestions/question1-kevin.md)
+  * [Cory](generalQuestions/question1-cory.md)
 2. What excites or interests you about coding?
 3. What is a recent technical challenge you experienced and how did you solve it?
 4. What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
@@ -129,6 +130,7 @@ This file contains a number of front-end interview questions that can be used wh
 12. Have you ever used a grid system, and if so, what do you prefer?
   * [Cory](cssQuestions/question12-cory.md)
 13. Have you used or implemented media queries or mobile specific layouts/CSS?
+  * [Cory](cssQuestions/question13-cory.md)
 14. Are you familiar with styling SVG?
 15. How do you optimize your webpages for print?
 16. What are some of the "gotchas" for writing efficient CSS?
