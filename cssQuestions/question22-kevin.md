@@ -1,0 +1,3 @@
+What does ```* { box-sizing: border-box; }``` do? What are its advantages?
+
+Box-sizing causes the browser to calculate height and width of elements differently depending on its value. In the case of border-box, the browser includes the content, padding, and border in the calculation. It's useful because developers can more easily set height and width of the elements without needing to calculate content, padding, and border additively. For example, a developer can set the element to be 300px width and know that the content all the way to the margin will be 300px wide.
