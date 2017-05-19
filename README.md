@@ -142,6 +142,7 @@ This file contains a number of front-end interview questions that can be used wh
   * [Cory](cssQuestions/question20-cory.md)
 21. Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
 22. What does ```* { box-sizing: border-box; }``` do? What are its advantages?
+  * [Kevin](cssQuestions/question22-kevin.md)
 23. List as many values for the display property that you can remember.
 24. What's the difference between inline and inline-block?
 25. What's the difference between a relative, fixed, absolute and statically positioned element?
