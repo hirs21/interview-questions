@@ -138,6 +138,7 @@ This file contains a number of front-end interview questions that can be used wh
   * Describe what you like and dislike about the CSS preprocessors you have used.
 18. How would you implement a web design comp that uses non-standard fonts?
 19. Explain how a browser determines what elements match a CSS selector.
+  * [Cory](cssQuestions/question19-cory.md)
 20. Describe pseudo-elements and discuss what they are used for.
   * [Cory](cssQuestions/question20-cory.md)
 21. Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
