@@ -146,6 +146,7 @@ This file contains a number of front-end interview questions that can be used wh
   * [Kevin](cssQuestions/question22-kevin.md)
 23. List as many values for the display property that you can remember.
 24. What's the difference between inline and inline-block?
+  * [Cory](cssQuestions/question24-cory.md)
 25. What's the difference between a relative, fixed, absolute and statically positioned element?
 26. The 'C' in CSS stands for Cascading.  How is priority determined in assigning styles (a few examples)?  How can you use this system to your advantage?
 27. What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
