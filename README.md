@@ -146,6 +146,7 @@ This file contains a number of front-end interview questions that can be used wh
   * [Kevin](cssQuestions/question22-kevin.md)
   * [Cory](cssQuestions/question22-cory.md)
 23. List as many values for the display property that you can remember.
+  * [Cory](cssQuestions/question23-cory.md)
 24. What's the difference between inline and inline-block?
   * [Cory](cssQuestions/question24-cory.md)
 25. What's the difference between a relative, fixed, absolute and statically positioned element?
