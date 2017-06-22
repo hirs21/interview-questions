@@ -8,7 +8,7 @@ HiR 21 contributors: For continued learning and software engineering mastery dur
 
 1. Fork this repo to your personal Github account.
 2. Choose a question to answer.
-3. Make an answer file for the question you answered in the corresponding folder/naming convention: *** generalQuestions/question1-kevin.md ***
+3. Make an answer file for the question you answered in the corresponding folder/naming convention: **generalQuestions/question1-kevin.md**
   * In this example, Kevin has answered question1 from the General Questions list
 4. Answer the question in your newly created file.
 5. Edit the README (this file) to link to that answer under the corresponding question.
